@@ -16,7 +16,7 @@ export const Bio = {
     "I am a motivated and flexible person that is constantly looking for new chances to develop and succeed. Driven by an intense passion for education, I approach each assignment with steadfast commitment, determined to provide results of the highest caliber. I am able to embrace obstacles enthusiastically because of my positive outlook and unwavering conviction in constant growth, which I see as stepping stones to both professional and personal advancement. My mindset is set up for growth and success, and I'm ready to make a big difference and achieve amazing things.",
   github: "https://github.com/kartikeypant18/",
   resume:
-    "https://drive.google.com/file/d/1bo-edPEgYqUyqkbxrZxeVt9LUyxMhIiG/view?usp=sharing",
+    "https://drive.google.com/file/d/1tLTjcfB4VKLBKd1AtwLQPBPSpf4dfdui/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/kartikey-pant-14451620b/",
   leetcode: "https://leetcode.com/u/pant_kartike18046/",
 };
